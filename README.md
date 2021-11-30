@@ -1,4 +1,4 @@
-# 4ct pacman game
+# 4ct pacman game :v
 
 * made for my beloved colleagues from [4ct](https://4ct.eu/) 💙 and in honour of my boss's birthday
 
