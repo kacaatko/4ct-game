@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head lang="cs">
+    <title>4ct hra</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+  </head>
+
+  <body>
+    <header>
+        <div>
+          <img src="images/score.png" alt="score">
+          <span id="score">0/5</span>
+        </div>
+
+        <div id="time">
+            00:00
+        </div>
+    </header>
+
+    <div id="game">
+      <canvas id="canvas"></canvas>
+    </div>
+
+    <div id="end">
+        <p id="message"></p>
+        <button onclick="location.reload()">Hrát znovu</button>
+    </div>
+    
+    <!--propojeni s JavaScriptem-->
+    <script src="script.js"></script>
+</body>
+
+</html>
