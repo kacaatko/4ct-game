@@ -8,6 +8,6 @@
 
 * in Czech language
 
-[4ct pac man game](https://4ct-game.kacaatko.repl.co/)
+>>> [4ct pac man game](https://4ct-game.kacaatko.repl.co/)
 
 Enjoy!
