@@ -1,6 +1,6 @@
 # 4ct pacman game
 
-* made for my beloved colleagues and in honour of my boss's birthday
+* made for my beloved colleagues from [4ct](https://4ct.eu/) and in honour of my boss's birthday
 
 * made with Czechitas tutorial on May 2020
 
